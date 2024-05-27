@@ -7,3 +7,7 @@
 #   all-features: false
 
 -e file:.
+biopython==1.83
+numpy==1.26.4
+tqdm==4.66.4
+types-tqdm==4.66.0.20240417

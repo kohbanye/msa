@@ -1,2 +1,3 @@
-def hello():
-    return "Hello from msa!"
+from .msa import Msa
+
+__all__ = ["Msa"]
